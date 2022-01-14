@@ -1,0 +1,80 @@
+body{
+
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.titlecolor{
+    color:white;
+}
+
+.content{
+    width:500px;
+    padding:40px;
+    position: absolute;
+    top: 18%;
+    left:8%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.introduce{
+    background-color: whitesmoke;
+    width:500px;
+    height: 250px;
+    padding:13px;
+    position: absolute;
+    top: 20.5%;
+    left:24%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.line{
+    width:1500px;
+    padding:40px;
+    position: absolute;
+    top: 8.5%;
+    left:23%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.interesting{
+    vertical-align: text-top;
+    background-color: whitesmoke;
+    width:450px;
+    height: 230px;
+    padding:10px;
+    position: absolute;
+    top: 54%;
+    left:60%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.photo{
+    width:500px;
+    padding:40px;
+    position: absolute;
+    top: 51%;
+    left:89%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.line2{
+    width:1500px;
+    padding:40px;
+    position: absolute;
+    top: 74%;
+    left:23%;
+    transform: translate(-25%,-25%);
+    color:black
+}
+.aboutme{
+    vertical-align: text-top;
+    background-color: whitesmoke;
+    width:1460px;
+    height: 230px;
+    padding:10px;
+    position: absolute;
+    top: 85%;
+    left:25.5%;
+    transform: translate(-25%,-25%);
+    color:black
+}
